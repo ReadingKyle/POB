@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/blue.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/dashdownblue.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/dashdownorange.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/dashdownpink.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/dashleftblue.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/dashleftorange.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/dashleftpink.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/dashrightblue.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/dashrightorange.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/dashrightpink.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/dashupblue.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/dashuporange.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/dashuppink.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/desk1.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/desk2.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/desk3.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/desk4.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/desk5.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/downcloudblue.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/downcloudorange.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/downcloudpink.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/leftcloudblue.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/leftcloudorange.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/leftcloudpink.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/level.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/november.spritefont</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/november-small.spritefont</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/orange.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/pink.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/rightcloudblue.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/rightcloudorange.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/rightcloudpink.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/runback_blue.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/runback_orange.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/runback_pink.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/runback_white.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/runfront_blue.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/runfront_orange.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/runfront_pink.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/runfront_white.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/runleft_blue.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/runleft_orange.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/runleft_pink.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/runleft_white.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/runright_blue.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/runright_orange.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/runright_pink.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/runright_white.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/stationary_blue.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/stationary_orange.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/stationary_pink.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/stationary_white.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/upcloudblue.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/upcloudorange.png</File>
+    <File>C:/Users/Kyle/source/repos/POB/POB/Content/upcloudpink.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
